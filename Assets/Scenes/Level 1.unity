@@ -219,7 +219,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _showInfo: 1
-  _explanation: "When key Escape is pressed:\n          switches to scene Samples\n"
+  _explanation: "When key Escape is pressed:\n          switches to scene Level 1\n"
   description: 
   enableTrigger: 1
   allowRetrigger: 1
@@ -18340,14 +18340,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _showInfo: 1
-  _explanation: Switches to scene Platformer
+  _explanation: Switches to scene Level 1
   description: 
   enableAction: 1
   hasTags: 0
   actionTags: []
   hasConditions: 0
   actionConditions: []
-  sceneName: Platformer
+  sceneName: Level 1
 --- !u!114 &1898470260
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18362,7 +18362,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _showInfo: 1
   _explanation: "When a collision with a bounding volume with tags [Player] starts:\n         
-    switches to scene Platformer\n"
+    switches to scene Level 1\n"
   description: 
   enableTrigger: 1
   allowRetrigger: 0
