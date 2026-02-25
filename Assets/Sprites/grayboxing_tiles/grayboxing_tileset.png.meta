@@ -192,7 +192,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 1
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -216,7 +216,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -10519,7 +10519,7 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 4, y: 4}
+      - - {x: 4, y: 3}
         - {x: -4, y: 4}
         - {x: -4, y: -4}
         - {x: 4, y: -4}
@@ -10545,8 +10545,8 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 4, y: 4}
-        - {x: -4, y: 4}
+      - - {x: 4, y: 2}
+        - {x: -4, y: 3}
         - {x: -4, y: -4}
         - {x: 4, y: -4}
       tessellationDetail: 0
@@ -10571,8 +10571,8 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 4, y: 4}
-        - {x: -4, y: 4}
+      - - {x: 4, y: 1}
+        - {x: -4, y: 2}
         - {x: -4, y: -4}
         - {x: 4, y: -4}
       tessellationDetail: 0
@@ -10597,8 +10597,8 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 4, y: 4}
-        - {x: -4, y: 4}
+      - - {x: 4, y: 0}
+        - {x: -4, y: 1}
         - {x: -4, y: -4}
         - {x: 4, y: -4}
       tessellationDetail: 0
@@ -10623,8 +10623,8 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 4, y: 4}
-        - {x: -4, y: 4}
+      - - {x: 4, y: -1}
+        - {x: -4, y: 0}
         - {x: -4, y: -4}
         - {x: 4, y: -4}
       tessellationDetail: 0
@@ -10649,8 +10649,8 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 4, y: 4}
-        - {x: -4, y: 4}
+      - - {x: 4, y: -2}
+        - {x: -4, y: -1}
         - {x: -4, y: -4}
         - {x: 4, y: -4}
       tessellationDetail: 0
@@ -10675,8 +10675,8 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 4, y: 4}
-        - {x: -4, y: 4}
+      - - {x: 4, y: -3}
+        - {x: -4, y: -2}
         - {x: -4, y: -4}
         - {x: 4, y: -4}
       tessellationDetail: 0
@@ -10701,8 +10701,7 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 4, y: 4}
-        - {x: -4, y: 4}
+      - - {x: -4, y: -3}
         - {x: -4, y: -4}
         - {x: 4, y: -4}
       tessellationDetail: 0
@@ -10884,7 +10883,7 @@ TextureImporter:
       - - {x: 4, y: 4}
         - {x: -4, y: 4}
         - {x: -4, y: -4}
-        - {x: 4, y: -4}
+        - {x: 4, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: e77e8e7df029061408a01caf4e1f4651
@@ -10909,8 +10908,8 @@ TextureImporter:
       physicsShape:
       - - {x: 4, y: 4}
         - {x: -4, y: 4}
-        - {x: -4, y: -4}
-        - {x: 4, y: -4}
+        - {x: -4, y: -3}
+        - {x: 4, y: -2}
       tessellationDetail: 0
       bones: []
       spriteID: 18cd1ee2ad41dd84988b39c6c603f9ab
@@ -10935,8 +10934,8 @@ TextureImporter:
       physicsShape:
       - - {x: 4, y: 4}
         - {x: -4, y: 4}
-        - {x: -4, y: -4}
-        - {x: 4, y: -4}
+        - {x: -4, y: -2}
+        - {x: 4, y: -1}
       tessellationDetail: 0
       bones: []
       spriteID: 6e4d7bd8caefbc84a972e0343aba6d29
@@ -10961,8 +10960,8 @@ TextureImporter:
       physicsShape:
       - - {x: 4, y: 4}
         - {x: -4, y: 4}
-        - {x: -4, y: -4}
-        - {x: 4, y: -4}
+        - {x: -4, y: -1}
+        - {x: 4, y: 0}
       tessellationDetail: 0
       bones: []
       spriteID: aa5211574c0a01f43ae741e8a4af5054
@@ -10987,8 +10986,8 @@ TextureImporter:
       physicsShape:
       - - {x: 4, y: 4}
         - {x: -4, y: 4}
-        - {x: -4, y: -4}
-        - {x: 4, y: -4}
+        - {x: -4, y: 0}
+        - {x: 4, y: 1}
       tessellationDetail: 0
       bones: []
       spriteID: d761746f05f50ce479ec07e84c75c240
@@ -11013,8 +11012,8 @@ TextureImporter:
       physicsShape:
       - - {x: 4, y: 4}
         - {x: -4, y: 4}
-        - {x: -4, y: -4}
-        - {x: 4, y: -4}
+        - {x: -4, y: 1}
+        - {x: 4, y: 2}
       tessellationDetail: 0
       bones: []
       spriteID: 5e7561947e5d186498206344098e0c93
@@ -11039,8 +11038,8 @@ TextureImporter:
       physicsShape:
       - - {x: 4, y: 4}
         - {x: -4, y: 4}
-        - {x: -4, y: -4}
-        - {x: 4, y: -4}
+        - {x: -4, y: 2}
+        - {x: 4, y: 3}
       tessellationDetail: 0
       bones: []
       spriteID: 1cc155b9931d57c49a0986d8d4b6b38f
@@ -11065,8 +11064,7 @@ TextureImporter:
       physicsShape:
       - - {x: 4, y: 4}
         - {x: -4, y: 4}
-        - {x: -4, y: -4}
-        - {x: 4, y: -4}
+        - {x: -4, y: 3}
       tessellationDetail: 0
       bones: []
       spriteID: c217eff153aafff42ad6b401991d13e2
@@ -11797,6 +11795,732 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_445
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 8
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad514c1c273e584d858d7dbbb1a0476
+      internalID: 717538107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_446
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 124
+        width: 16
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca87e4dbf9bf5a4a91a9cf849af7d6d
+      internalID: 252374033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_447
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 244
+        width: 32
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad93427957f0824f888f857d3431c5d
+      internalID: -1092426358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_448
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 244
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ede38448e9b84aa1be7f2c1887a4a
+      internalID: -1699192887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_449
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f91d9ae73cec841a3d20372a60903f
+      internalID: -1724158819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_450
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 220
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb3b1314e77a740997d78c28351a60
+      internalID: 1189965481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_451
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 220
+        width: 64
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc5045efa301794a9509e08742638d7
+      internalID: -265683726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_452
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 180
+        width: 8
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a6b32b11d6cf4c93211d710ba2599
+      internalID: 1196861375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_453
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89238aedf407f5b4f876a7598f01e355
+      internalID: 1062164300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_454
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 180
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a9793b1e449f42986b1f9b0900bf8
+      internalID: -396778388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_455
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 180
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be3daee409918c4abdfc9b532ca3b53
+      internalID: -988447926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_456
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 180
+        width: 8
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc55e4e6374ea94aaa8b6f18054fb30
+      internalID: -1788050917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_457
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 180
+        width: 8
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a79e5ecb9a544a8285030680a27b8
+      internalID: -900033832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_458
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 180
+        width: 8
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990e258bc021d9147a1374c975bbd08d
+      internalID: -224368579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_459
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 180
+        width: 8
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971d26393bb0c3c41ac38460354ba002
+      internalID: -566723232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_460
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 108
+        width: 8
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d7e2230e962b5449febac5bc5f3b9c
+      internalID: -2051917101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_461
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 84
+        width: 128
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4485132bf09aa894bb6a033238b5d07d
+      internalID: 375233975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_462
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 16
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c9a979ff5123544b94670c08b235e8
+      internalID: 53405638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_463
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 108
+        width: 32
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9863833d05c95047bb6fe0d3c80c03f
+      internalID: 1722073716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_464
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 108
+        width: 64
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eafb514958e0b4d9bf28169281548d
+      internalID: 1478758039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_465
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 68
+        width: 16
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5722e1af10f613438ba381fcdea898a
+      internalID: -386968872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_466
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 92
+        width: 8
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335fa87ec7e161e4dbeef977eb429309
+      internalID: -839457644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_467
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 92
+        width: 8
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84387ac429b8ac49b6e3d2c0f667bb5
+      internalID: -1623824096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_468
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 92
+        width: 8
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db2843eb878bd49b13f515af7e1de2
+      internalID: 1165017634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_469
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 128
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35abe2ff9904b50438c474741d935965
+      internalID: -1617593728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_470
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 52
+        width: 32
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5022d11e3bff6d7418da9d954f81c7e2
+      internalID: -2043597893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_471
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d663d9b89f2d644db161664c082e7fe
+      internalID: 1245793361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_472
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 32
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e61bcb7c12dbec47bbfe63b382d40a7
+      internalID: -1755738367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_473
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a409f8c851effbf478e11b9e241eab34
+      internalID: -207132226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_474
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 20
+        width: 32
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d47c59d14d3642a3408684ec9da7a
+      internalID: 138326432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_475
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806e6ddd3c3ee3443b0e9536f684645a
+      internalID: 669929347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_476
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 32
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811baf7b578370f41a5b413d132c4df4
+      internalID: 2083962905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayboxing_tileset_477
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e0715dd7bdcb84d9f1c6f9e301c0dd
+      internalID: 700211670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -11811,7 +12535,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":8.0,"y":8.0},"gridSpriteOffset":{"x":4.0,"y":4.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":8.0,"y":8.0},"gridSpriteOffset":{"x":4.0,"y":4.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       grayboxing_tileset_0: 8684994623693279999
       grayboxing_tileset_1: -4165441500446456554
@@ -12198,9 +12922,42 @@ TextureImporter:
       grayboxing_tileset_442: 992915550
       grayboxing_tileset_443: -1990419917
       grayboxing_tileset_444: 1091932977
+      grayboxing_tileset_445: 717538107
+      grayboxing_tileset_446: 252374033
+      grayboxing_tileset_447: -1092426358
+      grayboxing_tileset_448: -1699192887
+      grayboxing_tileset_449: -1724158819
       grayboxing_tileset_45: -8875975884768217453
+      grayboxing_tileset_450: 1189965481
+      grayboxing_tileset_451: -265683726
+      grayboxing_tileset_452: 1196861375
+      grayboxing_tileset_453: 1062164300
+      grayboxing_tileset_454: -396778388
+      grayboxing_tileset_455: -988447926
+      grayboxing_tileset_456: -1788050917
+      grayboxing_tileset_457: -900033832
+      grayboxing_tileset_458: -224368579
+      grayboxing_tileset_459: -566723232
       grayboxing_tileset_46: 6099179725458114973
+      grayboxing_tileset_460: -2051917101
+      grayboxing_tileset_461: 375233975
+      grayboxing_tileset_462: 53405638
+      grayboxing_tileset_463: 1722073716
+      grayboxing_tileset_464: 1478758039
+      grayboxing_tileset_465: -386968872
+      grayboxing_tileset_466: -839457644
+      grayboxing_tileset_467: -1623824096
+      grayboxing_tileset_468: 1165017634
+      grayboxing_tileset_469: -1617593728
       grayboxing_tileset_47: 8816562582655001229
+      grayboxing_tileset_470: -2043597893
+      grayboxing_tileset_471: 1245793361
+      grayboxing_tileset_472: -1755738367
+      grayboxing_tileset_473: -207132226
+      grayboxing_tileset_474: 138326432
+      grayboxing_tileset_475: 669929347
+      grayboxing_tileset_476: 2083962905
+      grayboxing_tileset_477: 700211670
       grayboxing_tileset_48: -237872642
       grayboxing_tileset_49: -496219755
       grayboxing_tileset_5: 5485779657947296130
