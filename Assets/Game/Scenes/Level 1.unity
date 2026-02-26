@@ -27823,7 +27823,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BackGroundColor: {r: 0.6959963, g: 0.6745098, b: 0.9843137, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -136461,7 +136461,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
-  m_Color: {r: 0.07058824, g: 0.5294118, b: 0.3647059, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.3137255}
   m_Origin: {x: -14, y: -19, z: 0}
   m_Size: {x: 192, y: 55, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}

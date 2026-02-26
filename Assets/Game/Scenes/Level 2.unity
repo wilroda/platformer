@@ -30128,7 +30128,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BackGroundColor: {r: 0.69411767, g: 0.6745098, b: 0.9843137, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -30271,7 +30271,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1378518351}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c88f5cead0c0b2a4eb05b5900433f8d1, type: 3}
   m_Name: 
@@ -138828,7 +138828,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
-  m_Color: {r: 0.07058824, g: 0.5294118, b: 0.3647059, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.3137255}
   m_Origin: {x: -14, y: -19, z: 0}
   m_Size: {x: 192, y: 55, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -139301,7 +139301,7 @@ SpriteRenderer:
   m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 1778474541, guid: 37a5a48259b5c17478d2f614694db342, type: 3}
-  m_Color: {r: 0.6037736, g: 0.6037736, b: 0.6037736, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -139894,6 +139894,18 @@ PrefabInstance:
     - target: {fileID: 4681618858591253119, guid: 39dded1596226a04bbbaeb73b3c731eb, type: 3}
       propertyPath: m_Name
       value: Exit
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597085899173402024, guid: 39dded1596226a04bbbaeb73b3c731eb, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597085899173402024, guid: 39dded1596226a04bbbaeb73b3c731eb, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597085899173402024, guid: 39dded1596226a04bbbaeb73b3c731eb, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
